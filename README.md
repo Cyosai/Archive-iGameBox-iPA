@@ -1,2 +1,2 @@
-# Archive-iGameBox-Games-iPA
+# Archive-iGameBox-iPA
 This Repository contains "igamebox.ru"(almost) full website archive
