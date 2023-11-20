@@ -1,2 +1,2 @@
 # Archive-iGameBox-Games-iPA
-This Repository contains ipa files / type - games
+This Repository contains "igamebox.ru"(almost) full website archive
